@@ -48,18 +48,18 @@ The project demonstrates API handling, JSON parsing, and GUI development in C.
 5. Data is displayed in console or GUI
 
 ---
-
 ## 📂 Project Structure
+
+```
 WeatherApp/
-│── weather.c # Console version
-│── gui_weather.c # GUI version (SDL2)
+│── weather.c          # Console version
+│── gui_weather.c      # GUI version (SDL2)
 │── cJSON.c
 │── cJSON.h
-│── weather.json # API response file
-│── weather.exe # Console executable
-│── weather_gui.exe # GUI executable
-
----
+│── weather.json       # API response file
+│── weather.exe        # Console executable
+│── weather_gui.exe    # GUI executable
+```
 
 ## 🎯 Learning Outcomes
 
