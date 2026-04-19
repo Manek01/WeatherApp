@@ -58,3 +58,23 @@ WeatherApp
 │── weather.json # API response file
 │── weather.exe # Console executable
 │── weather_gui.exe # GUI executable
+🎯 Learning Outcomes
+API integration in C
+JSON parsing using cJSON
+System command execution
+GUI programming using SDL2
+Event handling & animations
+🚀 Future Improvements
+📊 Weekly forecast
+📍 Auto location detection
+⏱️ Hourly timeline
+🎨 Better animations & transitions
+🌐 Cross-platform packaging
+👨‍💻 Author
+
+Manek Yadav
+Pankaj Lomror
+Shiva Kumar Meena
+Dev Yadav
+Bhagyashree jangid
+Sonakshi
