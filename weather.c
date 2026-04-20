@@ -16,7 +16,7 @@ char command[500];
 
 sprintf(command,
 "curl -s \"https://api.weatherapi.com/v1/current.json?key=4f224678d93c46c8ae4164845261703&q=%s&aqi=yes\" > weather.json",
-city);
+city); /*builds api request using sprintf*/
 
 system(command);
 
